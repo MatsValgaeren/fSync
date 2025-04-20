@@ -38,16 +38,16 @@ fSync.show_dockable_window()
 
 ![fSync UI in Maya](https://github.com/user-attachments/assets/0e629e71-92af-4d83-8520-6ececf70fe0b)
 
-1. **(Optional) Click "Launch fSpy"** (Windows only) to open fSpy directly.
-2. **Export camera data from fSpy** as a JSON file.
+1. (Optional) Click "Launch fSpy" (Windows only) to open fSpy directly.
+2. **Export camera data** from fSpy as a JSON file.
 3. **Run the script in Maya** to open the UI.
 4. **Select the JSON file** and your projection image or image sequence.
 5. (Optional) Enter custom camera and shader names, and set a sequence offset if needed.
-6. Click **Create Scene** to automatically generate the camera, projection setup, and shader.
-7. **Select objects** and click "Apply Shader" to assign the shader.
+6. **Click Create Scene** to automatically generate the camera, projection setup, and shader.
+7. **Select objects and click "Apply Shader"** to assign the shader.
 8. Use "Update" to change camera or image settings at any time.
 
-Or watch the Demo here: [YouTube Video](https://youtu.be/1ouHB7DwsLI)
+**Watch the Demo here:** [YouTube Video](https://youtu.be/1ouHB7DwsLI)
 
 ## Requirements
 
