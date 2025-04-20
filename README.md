@@ -45,7 +45,7 @@ fSync.show_dockable_window()
 7. **Select objects** and click "Apply Shader" to assign the shader.
 8. Use "Update" to change camera or image settings at any time.
 
-Or watch the Demo here: [YouTube Video](https://your-demo-link)
+Or watch the Demo here: [YouTube Video](https://youtu.be/1ouHB7DwsLI)
 
 ## Requirements
 
