@@ -59,4 +59,4 @@ Or watch the Demo here: [YouTube Video](https://youtu.be/1ouHB7DwsLI)
 
 ## License
 
-[GNU 3.0]
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0)
