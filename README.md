@@ -1,7 +1,7 @@
 # fSync (Maya fSpy Importer
-![fSpy_image_v002](https://github.com/user-attachments/assets/1620cf67-0e20-4408-9a12-3a8f20a7c6ea)
-
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+![fSpy_image_v002](https://github.com/user-attachments/assets/1620cf67-0e20-4408-9a12-3a8f20a7c6ea)
 
 *A tool to sync fSpy camera data and projections with Maya scenes.*
 
