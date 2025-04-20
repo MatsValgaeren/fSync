@@ -1,5 +1,4 @@
 # fSync (Maya fSpy Importer
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ![fSpy_image_v002](https://github.com/user-attachments/assets/1620cf67-0e20-4408-9a12-3a8f20a7c6ea)
 
@@ -7,6 +6,7 @@
 
 
 Easily import camera data and create a projection shader from [fSpy](https://github.com/stuffmatic/fSpy) into Autodesk Maya!
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Features
 
