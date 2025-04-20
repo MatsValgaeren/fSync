@@ -36,7 +36,7 @@ fSync.show_dockable_window()
 
 ## Usage
 
-![fSync UI in Maya](https://github.com/user-attachments/assets/0e629e71-92af-4d83-8520-6ececf70fe0b)
+![fSync UI in Maya](https://github.com/user-attachments/assets/cc538fbe-fecc-4ecf-a57b-4449d4437c73)
 
 1. (Optional) Click "Launch fSpy" (Windows only) to open fSpy directly.
 2. **Export camera data** from fSpy as a JSON file.
