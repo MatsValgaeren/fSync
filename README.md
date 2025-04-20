@@ -1,4 +1,4 @@
-# fSync (Maya fSpy Importer
+# fSync (Maya fSpy Importer)
 
 ![fSpy_image_v002](https://github.com/user-attachments/assets/1620cf67-0e20-4408-9a12-3a8f20a7c6ea)
 
