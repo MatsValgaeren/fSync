@@ -14,7 +14,7 @@
 <summary>Table of Contents</summary>
 
 - [About](#about)
-  - [Features](#features)
+- [Features](#features)
 - [Installation](#installation)
   - [Requirements](#requirements)
   - [Maya Scipt Setup](#maya-scipt-setup)
@@ -33,7 +33,7 @@ A tool to sync fSpy camera data and projections with Maya scenes.
 *Watch Demo Video Here: [YouTube Video](https://youtu.be/1ouHB7DwsLI)*
 
 
-#### Features
+## Features
 
 - Launch fSpy (Windows default installation required)
 - Import fSpy JSON camera data
