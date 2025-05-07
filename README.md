@@ -32,15 +32,15 @@ A tool to sync fSpy camera data and projections with Maya scenes.
 *Watch Demo Video Here: [YouTube Video](https://youtu.be/1ouHB7DwsLI)*
 
 
-## Features
+**Features**
 
-- **Launch fSpy Instantly:** Open the fSpy application directly from the script with a single click (Windows default installation required).
-- **Import Camera Data:** Load camera parameters seamlessly from an fSpy JSON file.
-- **Flexible Image Support:** Work with either a single image or an image sequence for static or animated projections.
-- **Custom Naming:** Specify custom names for cameras and shaders.
-- **One-Click Setup:** Automatically create both the camera and projection shader.
-- **Quick Shader Assignment:** Apply the generated shader to selected objects instantly.
-- **Update button:** Modify camera or image settings with the click of a button.
+- Launch fSpy (Windows default installation required)
+- Import fSpy JSON camera data
+- Use an image or image sequence for projection mapping
+- Use custom naming for camera and shader
+- Create projection camera and shader
+- Apply shader to selected objects
+- Update image, camera, and shader settings
 
 
 ## Installation
@@ -68,14 +68,14 @@ fSync.show_dockable_window()
 
 ![fSync UI in Maya](https://github.com/user-attachments/assets/cc538fbe-fecc-4ecf-a57b-4449d4437c73)
 
-1. (Optional) Click "Launch fSpy" (Windows only) to open fSpy directly.
+1. (Optional) Click **Launch fSpy** (Windows only) to open fSpy directly.
 2. Export camera data from fSpy as a JSON file.
 3. **Run fSync in Maya** to open the UI.
 4. **Select the JSON file and your projection image or image sequence.**
 5. (Optional) Enter custom camera and shader names, and set a sequence offset if needed.
-6. **Click Create Scene** to automatically generate the camera, projection setup, and shader.
-7. **Select objects and click "Apply Shader"** to assign the shader.
-8. Use "Update" to change camera or image settings at any time.
+6. Click **Create Scene** to automatically generate the camera, projection setup, and shader.
+7. Select objects and click **Apply Shader** to assign the shader.
+8. Use **Update** to change camera or image settings at any time.
 
 ***Watch the Demo here: [YouTube Video](https://youtu.be/1ouHB7DwsLI)***
 
